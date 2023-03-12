@@ -1,7 +1,11 @@
 package fp.conflict;
 
 import java.time.LocalDate;
+import java.util.LinkedList;
+import java.util.List;
 import java.util.Objects;
+
+import fp.common.Victima;
 import fp.utiles.Checkers;
 
 public class Conflicto {
@@ -10,11 +14,12 @@ public class Conflicto {
 	private LocalDate date;
 	private String type;
 	private String location;
-	private Float longitude;
+	private Double longitude;
 	private Integer fatalities;
 	private Boolean firearm;
 	private Importancia importanciaDerivada;
-	
+	private List<String> gruposArmados;
+	private Victima victima;
 	
 	
 	//Propiedad derivada
@@ -33,13 +38,15 @@ public class Conflicto {
 	
 	//C1
 	
+	
+
 	public Conflicto(Integer dataId, String eventId, LocalDate date, String type, String location,
-			Float longitude, Integer fatalities, Boolean firearm, Importancia importanciaDerivada) {
+			Double longitude, Integer fatalities, Boolean firearm, Importancia importanciaDerivada,Victima victima) {
 		//Restriccion1
 		Checkers.check("dataId no puede ser mayor de 8000000", dataId<=8000000);
 		
 		//Restriccion2
-		Checkers.checkNoNull("el tipo del conflicto no puede estar vacio", type= " ");
+		Checkers.checkNoNull("el tipo del conflicto no puede estar vacio", type== " ");
 		this.dataId=dataId;
 		this.eventId=eventId;
 		this.date = date; 
@@ -48,21 +55,21 @@ public class Conflicto {
         this.longitude = longitude;
         this.fatalities = fatalities;
         this.firearm = firearm;
-		this.setImportanciaDerivada(importanciaDerivada);
+		this.importanciaDerivada= importanciaDerivada;
+		this.gruposArmados= new LinkedList <String>();
+		this.victima = victima;
 		
 	}
 	
 	//C2
 	
-	public Conflicto(Integer dataId, String eventId, LocalDate date, String type, String location,
-			Float longitude, Integer fatalities) {
+	public Conflicto(Integer dataId, String eventId, LocalDate date, String location,
+			Double longitude, Integer fatalities) {
 		//Restriccion
 		Checkers.check("dataId no puede ser mayor de 8000000", dataId<=8000000);
-
 		this.dataId=dataId;
 		this.eventId=eventId;
 		this.date = date; 
-        this.type = type;
         this.location = location;
         this.longitude = longitude;
         this.fatalities = fatalities;
@@ -78,7 +85,8 @@ public class Conflicto {
 	public String toString() {
 		return "Conflicto [dataId=" + dataId + ", eventId=" + eventId + ", date=" + date + ", type=" + type
 				+ ", location=" + location + ", longitude=" + longitude + ", fatalities=" + fatalities + ", firearm="
-				+ firearm + ", importanciaDerivada=" + importanciaDerivada + "]";
+				+ firearm + ", importanciaDerivada=" + importanciaDerivada + ", gruposArmados=" + gruposArmados
+				+ ", victima=" + victima + "]";
 	}
 	
 	
@@ -88,6 +96,7 @@ public class Conflicto {
 	public int hashCode() {
 		return Objects.hash(dataId, eventId);
 	}
+
 
 	@Override
 	public boolean equals(Object obj) {
@@ -152,10 +161,10 @@ public class Conflicto {
 	public void setLocation(String location) {
 		this.location = location;
 	}
-	public Float getLongitude() {
+	public Double getLongitude() {
 		return longitude;
 	}
-	public void setLongitude(Float longitude) {
+	public void setLongitude(Double longitude) {
 		this.longitude = longitude;
 	}
 	public Integer getFatalities() {
@@ -178,5 +187,25 @@ public class Conflicto {
 	public void setImportanciaDerivada(Importancia importanciaDerivada) {
 		this.importanciaDerivada = importanciaDerivada;
 	}
+	public List<String> getGruposArmados() {
+		return gruposArmados;
+	}
 
+	public void setGruposArmados(List<String> gruposArmados) {
+		this.gruposArmados = gruposArmados;
+	}
+
+	public Victima getVictima() {
+		return victima;
+	}
+
+	public void setVictima(Victima victima) {
+		this.victima = victima;
+	}
+	
+	//metodo para añadir grupos armados a la propiedad tipo lista
+	public void añadeGruposArmados(String nombre) {
+		gruposArmados.add(nombre);
+	}
+	
 }
