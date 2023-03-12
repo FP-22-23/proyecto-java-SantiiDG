@@ -5,6 +5,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Objects;
 
+import fp.common.Importancia;
 import fp.common.Victima;
 import fp.utiles.Checkers;
 

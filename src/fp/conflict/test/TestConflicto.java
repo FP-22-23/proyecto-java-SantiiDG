@@ -33,6 +33,7 @@ public class TestConflicto {
 		System.out.println("getter importanciaDerivada " + c.importanciaDerivada());
 		System.out.println("getter gruposArmados" + c.getGruposArmados());
 		System.out.println("getter victima " + c.getVictima());
+		
 	
 		//try catch para las restricciones
 		try {

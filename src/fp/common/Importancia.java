@@ -1,4 +1,4 @@
-package fp.conflict;
+package fp.common;
 
 public enum Importancia {
 	GRANDE,MEDIA,PEQUEÑA
