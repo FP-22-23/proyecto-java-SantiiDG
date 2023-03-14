@@ -1,0 +1,491 @@
+data_id;event_id_cnty;event_date;event_type;location;longitude;fatalities;firearm_usage
+7173389;DRC18042;2020-08-01;Protests;Gemena;19.7667;0;false
+7173390;DRC18041;2020-08-01;Protests;Bunia;30.2500;0;true
+7173480;DRC18043;2020-08-01;Protests;Sange;29.1167;0;false
+7173575;DRC18040;2020-08-01;Protests;Bukavu;28.8667;0;true
+7173384;DRC18032;2020-07-31;Battles;Butembo;29.2910;0;true
+7173386;DRC18035;2020-07-31;Battles;Katoyi;29.1515;5;true
+7173393;DRC18031;2020-07-31;Protests;Bukavu;28.8667;0;true
+7173669;DRC18036;2020-07-31;Protests;Matadi;13.4500;0;false
+7173674;DRC18037;2020-07-31;Protests;Matadi;13.4500;0;false
+7173433;DRC18038;2020-07-31;Battles;Mongbwalu;30.1126;1;true
+7173301;DRC18033;2020-07-31;Protests;Goma;29.2339;0;false
+7173302;DRC18034;2020-07-31;Violence against civilians;Kainama II & III;29.8001;3;false
+7173303;DRC18039;2020-07-31;Riots;Sange;29.1167;0;true
+7173385;DRC18028;2020-07-30;Violence against civilians;Kakulu;27.6833;2;true
+7173481;DRC18030;2020-07-30;Riots;Kalemie;29.1785;0;false
+7173482;DRC18029;2020-07-30;Riots;Kalemie;29.1785;1;false
+7173388;DRC18025;2020-07-29;Battles;Halungupa;29.6317;2;true
+7173391;DRC18023;2020-07-29;Riots;Durba;29.5833;0;false
+7173392;DRC18027;2020-07-29;Riots;Watsa;29.5333;0;true
+7173673;DRC18024;2020-07-29;Strategic developments;Egombo;28.6537;0;true
+7173298;DRC18021;2020-07-29;Riots;Bandisende;28.7533;2;true
+7173299;DRC18022;2020-07-29;Riots;Bushushu;28.9199;0;false
+7173300;DRC18026;2020-07-29;Violence against civilians;Kamombo;28.8000;2;false
+7173483;DRC18020;2020-07-28;Violence against civilians;Kisangani;25.1896;0;true
+7173295;DRC18016;2020-07-28;Violence against civilians;Kainama II & III;29.8001;6;true
+7173296;DRC18018;2020-07-28;Battles;Kididiwe;29.5034;7;true
+7173297;DRC18019;2020-07-28;Protests;Kindu;25.9224;0;true
+7173574;DRC18017;2020-07-28;Battles;Kainama II & III;29.8001;3;false
+7173394;DRC18010;2020-07-27;Riots;Kahembarhi;28.7205;0;false
+7173666;DRC18015;2020-07-27;Protests;Ngaliema;15.2397;0;false
+7173672;DRC18013;2020-07-27;Battles;Mbuhi-Pilote;29.0063;0;true
+7173290;DRC18008;2020-07-27;Riots;Bukavu;28.8667;0;true
+7173291;DRC18009;2020-07-27;Battles;Ibuga;29.0326;2;true
+7173292;DRC18011;2020-07-27;Battles;Kashuga;28.5487;2;true
+7173293;DRC18012;2020-07-27;Protests;Matadi;13.4500;0;true
+7173294;DRC18014;2020-07-27;Strategic developments;Moba;29.7645;0;false
+7173670;DRC18006;2020-07-26;Battles;Mikenge;28.4476;0;true
+7173288;DRC18005;2020-07-26;Strategic developments;Bendera;28.9151;0;false
+7173289;DRC18007;2020-07-26;Violence against civilians;Saliboko;30.1122;6;false
+7173665;DRC18004;2020-07-25;Violence against civilians;Muhangi;29.1064;0;false
+7173432;DRC18003;2020-07-25;Protests;Largu;30.5482;0;true
+7169115;DRC17976;2020-07-25;Riots;Kabinda;24.4833;0;true
+7169121;DRC17973;2020-07-25;Protests;Bunia;30.2500;0;false
+7169127;DRC17974;2020-07-25;Protests;Butembo;29.2910;0;false
+7168998;DRC17975;2020-07-25;Protests;Goma;29.2339;0;true
+7168999;DRC17977;2020-07-25;Protests;Kananga;22.4178;0;false
+7173616;DRC18002;2020-07-25;Battles;Irumu;29.8447;8;false
+7169334;DRC17968;2020-07-24;Protests;Kabare;28.8202;0;false
+7169335;DRC17969;2020-07-24;Protests;Kinshasa;15.3222;0;true
+7169116;DRC17972;2020-07-24;Protests;Uvira;29.1378;0;true
+7169117;DRC17966;2020-07-24;Riots;Fungurume;26.3000;1;true
+7169375;DRC17971;2020-07-24;Battles;Mulimbi;29.3986;0;false
+7169197;DRC17967;2020-07-24;Violence against civilians;Irumu;29.8447;1;false
+7168997;DRC17970;2020-07-24;Battles;Mongbwalu;30.1126;2;true
+7169337;DRC17962;2020-07-23;Battles;Rugari;29.3731;1;true
+7169338;DRC17952;2020-07-23;Violence against civilians;Bisisi;28.4335;1;false
+7169120;DRC17907;2020-07-23;Protests;Goma;29.2339;0;false
+7169122;DRC17909;2020-07-23;Protests;Lodja;23.6005;0;true
+7169125;DRC17910;2020-07-23;Protests;Walungu;28.6458;0;false
+7169129;DRC17959;2020-07-23;Strategic developments;Kipupu;28.7032;0;true
+7169130;DRC17905;2020-07-23;Protests;Beni;29.4654;0;false
+7169132;DRC17958;2020-07-23;Protests;Kalemie;29.1785;0;false
+7169433;DRC17965;2020-07-23;Protests;Tshopo;25.5667;0;false
+7169439;DRC17953;2020-07-23;Battles;Dakwa;26.4667;1;true
+7169198;DRC17956;2020-07-23;Battles;Kabakaba;30.1173;5;true
+7169199;DRC17955;2020-07-23;Strategic developments;Jitso;30.5284;0;false
+7169200;DRC17954;2020-07-23;Violence against civilians;Irumu;29.8447;2;true
+7173563;DRC18001;2020-07-23;Battles;Kigongo;29.1500;0;false
+7168975;DRC17906;2020-07-23;Protests;Bukavu;28.8667;0;false
+7168976;DRC17908;2020-07-23;Protests;Kinshasa;15.3222;0;true
+7168992;DRC17957;2020-07-23;Battles;Kakuka I;29.7887;4;false
+7168993;DRC17960;2020-07-23;Strategic developments;Mutongo;28.0922;0;true
+7168994;DRC17961;2020-07-23;Strategic developments;Pinga;28.6992;0;false
+7168995;DRC17963;2020-07-23;Battles;Rugari;29.3731;0;true
+7168996;DRC17964;2020-07-23;Battles;Tongo;29.2758;2;true
+7169336;DRC17949;2020-07-22;Violence against civilians;Lubarika;28.9413;0;true
+7169123;DRC17946;2020-07-22;Protests;Boma;13.0503;0;false
+7169438;DRC17951;2020-07-22;Strategic developments;Saliboko;30.1122;0;false
+7168990;DRC17947;2020-07-22;Battles;Jomba;29.5500;0;true
+7168991;DRC17948;2020-07-22;Violence against civilians;Kabakaba;30.1173;2;true
+7169273;DRC17950;2020-07-22;Battles;Masambo;29.6864;0;false
+7169285;DRC17942;2020-07-21;Violence against civilians;Mkyengya;28.9958;2;true
+7169286;DRC17939;2020-07-21;Violence against civilians;Malinde;29.0359;2;false
+7169126;DRC17931;2020-07-21;Protests;Beni;29.4654;0;true
+7169131;DRC17937;2020-07-21;Strategic developments;Kasingwa;30.9358;0;false
+7169432;DRC17944;2020-07-21;Strategic developments;Ngingwe;28.8833;0;true
+7169434;DRC17938;2020-07-21;Strategic developments;Kitchanga;29.0599;0;false
+7169435;DRC17934;2020-07-21;Strategic developments;Egombo;28.6537;0;true
+7169437;DRC17943;2020-07-21;Strategic developments;Ngingwe;28.8833;0;false
+7169440;DRC17941;2020-07-21;Violence against civilians;Mbuji Mayi;23.6000;0;false
+7173566;DRC18000;2020-07-21;Protests;Nyamasasa;29.0085;0;false
+7168985;DRC17932;2020-07-21;Violence against civilians;Beni;29.4654;1;true
+7168986;DRC17933;2020-07-21;Battles;Bugina;29.4483;3;false
+7168987;DRC17936;2020-07-21;Violence against civilians;Kabakaba;30.1173;6;true
+7168988;DRC17940;2020-07-21;Riots;Mbuji Mayi;23.6000;0;false
+7168989;DRC17945;2020-07-21;Violence against civilians;Saliboko;30.1122;8;false
+7169274;DRC17935;2020-07-21;Violence against civilians;Irumu;29.8447;1;false
+7173667;DRC17999;2020-07-20;Strategic developments;Kanyabayonga;29.1731;0;false
+7169118;DRC17929;2020-07-20;Strategic developments;Nyunzu;28.0107;0;false
+7169128;DRC17928;2020-07-20;Violence against civilians;Irumu;29.8447;3;false
+7168982;DRC17926;2020-07-20;Battles;Bushimoo;28.7041;23;true
+7168983;DRC17927;2020-07-20;Violence against civilians;Halungupa;29.6317;8;true
+7168984;DRC17930;2020-07-20;Battles;Pinga;28.6992;24;true
+7169376;DRC17919;2020-07-19;Battles;Biakato;29.2582;0;true
+7169124;DRC17922;2020-07-19;Protests;Kinshasa;15.3222;0;false
+7169436;DRC17925;2020-07-19;Strategic developments;Vingyo;29.0497;0;false
+7168978;DRC17920;2020-07-19;Protests;Goma;29.2339;0;false
+7168979;DRC17921;2020-07-19;Violence against civilians;Irumu;29.8447;6;true
+7168980;DRC17923;2020-07-19;Protests;Ngadi;29.4903;0;false
+7168981;DRC17924;2020-07-19;Battles;Ngadi;29.4903;2;true
+7163906;DRC17898;2020-07-18;Violence against civilians;Buba;30.7977;0;true
+7163907;DRC17902;2020-07-18;Violence against civilians;Nizi;30.3126;3;false
+7163913;DRC17901;2020-07-18;Protests;Kiseguru;29.4457;0;true
+7163916;DRC17899;2020-07-18;Violence against civilians;Budu;30.4290;2;true
+7163917;DRC17900;2020-07-18;Violence against civilians;Djugu;30.5056;0;false
+7168977;DRC17918;2020-07-18;Violence against civilians;Saramabila;27.5357;0;true
+7163910;DRC17895;2020-07-17;Strategic developments;Kanyabayonga;29.1731;0;false
+7169322;DRC17917;2020-07-17;Battles;Nyatesa;28.5804;0;true
+7163702;DRC17892;2020-07-17;Strategic developments;Bafwabango;27.8229;0;false
+7163703;DRC17897;2020-07-17;Violence against civilians;Nizi;30.3126;2;false
+7163784;DRC17893;2020-07-17;Riots;Kabare;28.8202;1;false
+7163576;DRC17894;2020-07-17;Battles;Kainama II & III;29.8001;0;false
+7173567;DRC17998;2020-07-17;Battles;Kingamubiri;29.8615;0;false
+7163595;DRC17896;2020-07-17;Violence against civilians;Kiseguru;29.4457;1;true
+7163912;DRC17891;2020-07-16;Battles;Miriki;29.0545;1;false
+7169327;DRC17915;2020-07-16;Violence against civilians;Uvira;29.1378;0;false
+7163701;DRC17888;2020-07-16;Violence against civilians;Bwakadi;29.8112;2;true
+7163704;DRC17886;2020-07-16;Strategic developments;Biakato;29.2582;0;true
+7173240;DRC17890;2020-07-16;Violence against civilians;Kipupu;28.7032;15;true
+7169406;DRC17916;2020-07-16;Violence against civilians;Uvira;29.1378;0;true
+7163785;DRC17885;2020-07-16;Violence against civilians;Biakato;29.2582;0;true
+7173556;DRC17997;2020-07-16;Battles;Kiseguru;29.4457;1;true
+7163579;DRC17887;2020-07-16;Violence against civilians;Bwakadi;29.8112;11;true
+7173565;DRC17996;2020-07-16;Battles;Kataro;29.3390;2;false
+7163594;DRC17889;2020-07-16;Strategic developments;Kambutso;30.3206;0;true
+7163914;DRC17883;2020-07-15;Battles;Musindi;29.1494;5;false
+7163700;DRC17881;2020-07-15;Battles;Kibarizo;28.9793;1;true
+7163495;DRC17880;2020-07-15;Protests;Baraka;29.0933;0;false
+7173562;DRC17995;2020-07-15;Violence against civilians;Rutiba;29.1077;0;false
+7163590;DRC17884;2020-07-15;Battles;Pinga;28.6992;17;false
+7163645;DRC17882;2020-07-15;Battles;Mongbwalu;30.1126;1;true
+7173668;DRC17994;2020-07-14;Violence against civilians;Irumu;29.8447;20;false
+7173671;DRC17993;2020-07-14;Violence against civilians;Irumu;29.8447;30;false
+7169326;DRC17914;2020-07-14;Battles;Ngolombe;27.7333;2;false
+7163778;DRC17879;2020-07-14;Protests;Uvira;29.1378;0;false
+7163783;DRC17877;2020-07-14;Riots;Bukavu;28.8667;1;true
+7163788;DRC17876;2020-07-14;Violence against civilians;Baraka;29.0933;1;true
+7163789;DRC17875;2020-07-14;Battles;Banacongo;29.5413;7;false
+7173552;DRC17992;2020-07-14;Battles;Bukutsha;28.7006;9;true
+7173557;DRC17991;2020-07-14;Battles;Bukutsha;28.7006;8;false
+7163640;DRC17878;2020-07-14;Violence against civilians;Nyange;28.8538;0;false
+7163905;DRC17847;2020-07-13;Protests;Beni;29.4654;0;true
+7163908;DRC17858;2020-07-13;Protests;Kananga;22.4178;0;true
+7163909;DRC17860;2020-07-13;Protests;Kikwit;18.8162;0;true
+7163911;DRC17854;2020-07-13;Protests;Isiro;27.6166;0;false
+7163915;DRC17863;2020-07-13;Protests;Kisangani;25.1896;0;true
+7163488;DRC17848;2020-07-13;Protests;Bukavu;28.8667;0;false
+7163489;DRC17852;2020-07-13;Riots;Goma;29.2339;0;true
+7163490;DRC17857;2020-07-13;Protests;Kamituga;28.1870;0;false
+7163491;DRC17859;2020-07-13;Battles;Kanyatsi;29.0462;4;true
+7163492;DRC17862;2020-07-13;Protests;Kinshasa;15.3222;0;false
+7163493;DRC17872;2020-07-13;Battles;Mutongo;28.0922;12;false
+7163494;DRC17874;2020-07-13;Battles;Ziralo;28.7264;3;false
+7163773;DRC17870;2020-07-13;Violence against civilians;Mutarule;29.1105;0;true
+7163787;DRC17869;2020-07-13;Strategic developments;Munigi;29.2549;0;true
+7173551;DRC17990;2020-07-13;Violence against civilians;Mbughavinywa;29.0770;0;true
+7163575;DRC17871;2020-07-13;Battles;Mutongo;28.0922;0;true
+7163832;DRC17867;2020-07-13;Violence against civilians;Mbau;29.4956;1;false
+7163577;DRC17868;2020-07-13;Protests;Mbuji Mayi;23.6000;0;false
+7163578;DRC17864;2020-07-13;Protests;Likasi;26.7448;0;false
+7163583;DRC17849;2020-07-13;Protests;Butembo;29.2910;0;true
+7163584;DRC17866;2020-07-13;Riots;Matadi;13.4500;0;false
+7163585;DRC17861;2020-07-13;Protests;Kindu;25.9224;0;true
+7163586;DRC17846;2020-07-13;Protests;Bandundu;17.3667;0;false
+7163587;DRC17873;2020-07-13;Protests;Tshikapa;20.8000;0;false
+7163588;DRC17851;2020-07-13;Protests;Gemena;19.7667;0;true
+7163592;DRC17850;2020-07-13;Protests;Gbadolite;21.0028;0;true
+7163593;DRC17865;2020-07-13;Riots;Lubumbashi;27.4741;3;false
+7163867;DRC17855;2020-07-13;Violence against civilians;Kamako;20.8981;0;false
+7163868;DRC17853;2020-07-13;Protests;Gungu;19.3141;0;false
+7163869;DRC17856;2020-07-13;Strategic developments;Kamako;20.8981;0;false
+7169323;DRC17913;2020-07-12;Battles;Ruginga;29.5270;0;false
+7163786;DRC17845;2020-07-12;Protests;Uvira;29.1378;0;true
+7173549;DRC17989;2020-07-12;Violence against civilians;Matebe;29.4849;0;false
+7173558;DRC17988;2020-07-12;Violence against civilians;Butaro;29.5743;0;true
+7163833;DRC17841;2020-07-12;Battles;Mwenda;29.7667;4;true
+7163589;DRC17840;2020-07-12;Violence against civilians;Mambisa;30.5983;1;false
+7163591;DRC17844;2020-07-12;Violence against civilians;Tshabi;29.8785;6;false
+7163638;DRC17843;2020-07-12;Battles;Mweso;29.0333;1;true
+7163639;DRC17842;2020-07-12;Battles;Mweso;29.0333;0;false
+7163422;DRC17815;2020-07-11;Violence against civilians;Mamove;29.4412;3;false
+7163420;DRC17809;2020-07-10;Violence against civilians;Ihula;29.0167;8;false
+7163421;DRC17814;2020-07-10;Violence against civilians;Mule;28.5527;0;true
+7157312;DRC17808;2020-07-10;Protests;Butembo;29.2910;0;false
+7157318;DRC17811;2020-07-10;Protests;Kinzau Vuete;13.2904;1;true
+7163774;DRC17837;2020-07-10;Battles;Kateja;28.7536;0;false
+7163776;DRC17839;2020-07-10;Violence against civilians;Mamove;29.4412;1;false
+7163782;DRC17838;2020-07-10;Battles;Kalinga;28.7827;2;true
+7157392;DRC17812;2020-07-10;Battles;Linga;30.7641;6;false
+7157664;DRC17810;2020-07-10;Battles;Jitso;30.5284;0;true
+7157670;DRC17813;2020-07-10;Violence against civilians;Mbau;29.4956;1;false
+7173548;DRC17987;2020-07-10;Violence against civilians;Kiringa;29.4982;1;true
+7163419;DRC17798;2020-07-09;Riots;Lubumbashi;27.4741;4;false
+7157558;DRC17790;2020-07-09;Riots;Kibati;29.2627;2;false
+7157561;DRC17807;2020-07-09;Protests;Uvira;29.1378;0;true
+7157310;DRC17805;2020-07-09;Battles;Pinga;28.6992;8;true
+7157319;DRC17784;2020-07-09;Protests;Butembo;29.2910;0;true
+7157321;DRC17791;2020-07-09;Protests;Kikwit;18.8162;0;false
+7157322;DRC17800;2020-07-09;Battles;Mamove;29.4412;1;true
+7157324;DRC17796;2020-07-09;Protests;Kolwezi;25.4725;0;false
+7157325;DRC17785;2020-07-09;Protests;Goma;29.2339;0;false
+7157326;DRC17804;2020-07-09;Protests;Mbuji Mayi;23.6000;0;false
+7157327;DRC17787;2020-07-09;Protests;Kamina;24.9906;0;false
+7157328;DRC17806;2020-07-09;Protests;Tshikapa;20.8000;0;false
+7157329;DRC17799;2020-07-09;Battles;Lulimba;28.6474;0;false
+7157330;DRC17792;2020-07-09;Protests;Kindu;25.9224;0;false
+7163764;DRC17836;2020-07-09;Violence against civilians;Miruwa;28.6637;0;true
+7173238;DRC17801;2020-07-09;Battles;Masumo;29.1443;1;true
+7173239;DRC17802;2020-07-09;Battles;Masumo;29.1443;1;false
+7157384;DRC17794;2020-07-09;Protests;Kipushi;27.2494;0;false
+7157387;DRC17789;2020-07-09;Protests;Kasumbalesa;27.7977;0;false
+7157400;DRC17783;2020-07-09;Violence against civilians;Boga;29.9277;0;false
+7157661;DRC17797;2020-07-09;Protests;Kongolo;27.0000;0;true
+7157669;DRC17782;2020-07-09;Protests;Beni;29.4654;0;false
+7157675;DRC17786;2020-07-09;Protests;Kalemie;29.1785;0;false
+7157201;DRC17788;2020-07-09;Riots;Kananga;22.4178;0;true
+7157202;DRC17793;2020-07-09;Riots;Kinshasa;15.3222;3;true
+7157203;DRC17795;2020-07-09;Protests;Kisangani;25.1896;0;false
+7157205;DRC17803;2020-07-09;Protests;Matadi;13.4500;0;true
+7169325;DRC17912;2020-07-08;Violence against civilians;Cifunzi;28.5897;0;false
+7157556;DRC17768;2020-07-08;Protests;Bukavu;28.8667;0;true
+7157557;DRC17773;2020-07-08;Protests;Fizi;28.9441;0;false
+7157306;DRC17765;2020-07-08;Protests;Bandundu;17.3667;0;true
+7157562;DRC17776;2020-07-08;Protests;Kindu;25.9224;0;true
+7157315;DRC17775;2020-07-08;Protests;Kananga;22.4178;0;false
+7163767;DRC17835;2020-07-08;Violence against civilians;Kalonda;27.1931;2;true
+7157626;DRC17777;2020-07-08;Protests;Kinshasa;15.3222;0;true
+7157381;DRC17771;2020-07-08;Battles;Bunzenzele;30.0494;2;false
+7157398;DRC17772;2020-07-08;Violence against civilians;Drodro;30.5333;1;true
+7157401;DRC17767;2020-07-08;Strategic developments;Boga;29.9277;0;true
+7157665;DRC17779;2020-07-08;Protests;Kisangani;25.1896;0;true
+7157195;DRC17766;2020-07-08;Protests;Beni;29.4654;0;true
+7157196;DRC17769;2020-07-08;Violence against civilians;Bule;30.6000;2;false
+7157197;DRC17770;2020-07-08;Violence against civilians;Bunzenzele;30.0494;25;true
+7157198;DRC17774;2020-07-08;Protests;Goma;29.2339;0;false
+7157199;DRC17780;2020-07-08;Riots;Lubumbashi;27.4741;0;false
+7157200;DRC17781;2020-07-08;Strategic developments;Pinga;28.6992;0;true
+7157462;DRC17778;2020-07-08;Protests;Kisangani;25.1896;0;true
+7169324;DRC17911;2020-07-07;Violence against civilians;Mbughavinywa;29.0770;0;false
+7157554;DRC17764;2020-07-07;Riots;Nyabibwe;28.9038;1;true
+7157560;DRC17755;2020-07-07;Protests;Fizi;28.9441;0;false
+7157311;DRC17759;2020-07-07;Strategic developments;Mandro;30.3500;0;false
+7157314;DRC17763;2020-07-07;Protests;Mwenda;29.7667;0;true
+7157323;DRC17761;2020-07-07;Riots;Masamuna;17.6171;1;false
+7163775;DRC17834;2020-07-07;Battles;Chiriba;28.6940;0;false
+7157666;DRC17753;2020-07-07;Protests;Beni;29.4654;0;true
+7157668;DRC17756;2020-07-07;Protests;Kalemie;29.1785;0;true
+7157671;DRC17760;2020-07-07;Strategic developments;Manguredjpa;28.7454;0;false
+7157672;DRC17758;2020-07-07;Protests;Lubumbashi;27.4741;0;false
+7157674;DRC17762;2020-07-07;Protests;Matadi;13.4500;0;false
+7157194;DRC17757;2020-07-07;Protests;Kananga;22.4178;0;false
+7157461;DRC17754;2020-07-07;Riots;Bukavu;28.8667;0;true
+7157308;DRC17752;2020-07-06;Violence against civilians;Mwenda;29.7667;2;false
+7157313;DRC17750;2020-07-06;Riots;Lubumbashi;27.4741;0;true
+7163768;DRC17831;2020-07-06;Violence against civilians;Matenge;28.9569;2;true
+7163771;DRC17832;2020-07-06;Violence against civilians;Muhunguma;28.8995;1;true
+7163772;DRC17833;2020-07-06;Violence against civilians;Nyombe;27.4167;0;true
+7157399;DRC17748;2020-07-06;Violence against civilians;Drodro;30.5333;2;true
+7157193;DRC17749;2020-07-06;Riots;Kinshasa;15.3222;0;true
+7157484;DRC17751;2020-07-06;Riots;Lulimba;28.6474;0;false
+7157559;DRC17740;2020-07-05;Riots;Goma;29.2339;1;false
+7157320;DRC17745;2020-07-05;Riots;Misisi;28.9475;2;true
+7163766;DRC17830;2020-07-05;Violence against civilians;Luve;29.1111;0;false
+7163769;DRC17829;2020-07-05;Battles;Kasebe;28.6570;0;false
+7157391;DRC17744;2020-07-05;Battles;Lukweti;28.7369;0;true
+7157394;DRC17741;2020-07-05;Battles;Kalungu;28.9703;0;true
+7157191;DRC17742;2020-07-05;Battles;Kamonia;20.9333;1;false
+7157192;DRC17747;2020-07-05;Violence against civilians;Tshabi;29.8785;1;false
+7157486;DRC17746;2020-07-05;Violence against civilians;Misisi;28.9475;0;true
+7153177;DRC17702;2020-07-04;Violence against civilians;Irumu;29.8447;4;false
+7153453;DRC17704;2020-07-04;Protests;Lubumbashi;27.4741;0;true
+7157309;DRC17738;2020-07-04;Battles;Lubasha;29.5005;0;true
+7157084;DRC17701;2020-07-04;Battles;Ndalya;29.6073;6;true
+7163765;DRC17827;2020-07-04;Battles;Kivukulu;29.0571;5;true
+7163770;DRC17828;2020-07-04;Violence against civilians;Ruhuha;29.1485;0;false
+7157388;DRC17739;2020-07-04;Battles;Lukweti;28.7369;0;false
+7157393;DRC17737;2020-07-04;Battles;Kalungu;28.9703;0;true
+7157396;DRC17743;2020-07-04;Strategic developments;Komanda;29.7640;0;false
+7153051;DRC17700;2020-07-04;Battles;Gina;30.6964;11;true
+7153053;DRC17703;2020-07-04;Protests;Kinshasa;15.3222;0;true
+7153420;DRC17693;2020-07-03;Protests;Butembo;29.2910;0;true
+7157555;DRC17734;2020-07-03;Violence against civilians;Kusisa;28.7877;0;false
+7153242;DRC17692;2020-07-03;Battles;Bunia;30.2500;7;true
+7153513;DRC17696;2020-07-03;Battles;Mpati;28.9064;0;false
+7157386;DRC17733;2020-07-03;Battles;Kalungu;28.9703;1;true
+7157134;DRC17699;2020-07-03;Battles;Tuwetuwe;28.7404;8;false
+7157390;DRC17735;2020-07-03;Battles;Lukweti;28.7369;0;false
+7153049;DRC17697;2020-07-03;Violence against civilians;Oicha;29.5167;2;false
+7153050;DRC17698;2020-07-03;Battles;Oicha;29.5167;0;true
+7157660;DRC17736;2020-07-03;Battles;Ndalya;29.6073;5;true
+7157190;DRC17732;2020-07-03;Battles;Alimbongo;29.1562;8;true
+7153374;DRC17694;2020-07-03;Battles;Irumu;29.8447;2;false
+7153375;DRC17695;2020-07-03;Violence against civilians;Kukwe;28.6089;2;false
+7153170;DRC17686;2020-07-02;Riots;Ingbokolo;30.7613;0;false
+7153171;DRC17691;2020-07-02;Battles;Zumbe;30.3155;7;false
+7157535;DRC17728;2020-07-02;Protests;Beni;29.4654;0;false
+7157547;DRC17729;2020-07-02;Battles;Busenene;29.2456;0;false
+7153243;DRC17690;2020-07-02;Battles;Tshadhu;30.5734;0;true
+7157083;DRC17689;2020-07-02;Violence against civilians;Lengwe;27.6717;12;false
+7153510;DRC17688;2020-07-02;Battles;Kashuga;28.5487;1;true
+7153047;DRC17682;2020-07-02;Protests;Beni;29.4654;0;false
+7153048;DRC17685;2020-07-02;Violence against civilians;Ingbokolo;30.7613;0;false
+7153304;DRC17684;2020-07-02;Riots;Bukavu;28.8667;0;false
+7157663;DRC17731;2020-07-02;Battles;Ndalya;29.6073;5;false
+7157189;DRC17730;2020-07-02;Battles;Lengwe;27.6717;6;true
+7153373;DRC17687;2020-07-02;Protests;Kananga;22.4178;0;true
+7153380;DRC17683;2020-07-02;Violence against civilians;Bugamba;29.1828;1;false
+7153164;DRC17681;2020-07-01;Riots;Tshikapa;20.8000;0;true
+7157536;DRC17727;2020-07-01;Violence against civilians;Rubare;29.3833;0;true
+7153514;DRC17680;2020-07-01;Violence against civilians;Rumu;30.7944;0;true
+7163777;DRC17826;2020-07-01;Battles;Mayimoya;29.5697;2;false
+7153046;DRC17678;2020-07-01;Battles;Oicha;29.5167;2;true
+7153302;DRC17675;2020-07-01;Violence against civilians;Bukavu;28.8667;0;false
+7153303;DRC17677;2020-07-01;Battles;Irumu;29.8447;0;false
+7157145;DRC17679;2020-07-01;Violence against civilians;Rodo;30.2536;1;true
+7157146;DRC17676;2020-07-01;Violence against civilians;Ingbokolo;30.7613;0;true
+7153158;DRC17673;2020-06-30;Protests;Butembo;29.2910;0;true
+7153421;DRC17674;2020-06-30;Protests;Goma;29.2339;0;true
+7153159;DRC17665;2020-06-29;Protests;Gemena;19.7667;0;true
+7153175;DRC17666;2020-06-29;Violence against civilians;Irumu;29.8447;2;true
+7157543;DRC17726;2020-06-29;Battles;Uvira;29.1378;0;true
+7157082;DRC17671;2020-06-29;Battles;Sange;29.1167;0;false
+7153042;DRC17664;2020-06-29;Protests;Bukavu;28.8667;0;false
+7153043;DRC17667;2020-06-29;Violence against civilians;Irumu;29.8447;24;false
+7153044;DRC17669;2020-06-29;Protests;Kinshasa;15.3222;0;false
+7153045;DRC17672;2020-06-29;Protests;Oicha;29.5167;0;false
+7153367;DRC17670;2020-06-29;Violence against civilians;Mule;28.5527;0;true
+7153378;DRC17668;2020-06-29;Violence against civilians;Katogota;29.0004;0;true
+7153381;DRC17663;2020-06-29;Protests;Bagira;28.8276;0;true
+7153419;DRC17662;2020-06-28;Battles;Oicha;29.5167;1;false
+7153168;DRC17660;2020-06-28;Violence against civilians;Mwanga;30.2232;10;false
+7153169;DRC17640;2020-06-28;Battles;Bunyatenge;28.9051;13;true
+7153174;DRC17649;2020-06-28;Violence against civilians;Kainama II & III;29.8001;1;true
+7153176;DRC17651;2020-06-28;Battles;Kateku;28.8988;13;false
+7163418;DRC17724;2020-06-28;Violence against civilians;Lulimba;28.6474;0;true
+7157534;DRC17723;2020-06-28;Battles;Katsiru;29.1080;0;false
+7157545;DRC17722;2020-06-28;Violence against civilians;Buramba;29.5585;0;true
+7157081;DRC17659;2020-06-28;Violence against civilians;Mubi;28.3525;0;false
+7153502;DRC17655;2020-06-28;Violence against civilians;Lopa;30.3396;2;false
+7153035;DRC17650;2020-06-28;Battles;Kanune;28.9833;14;false
+7153036;DRC17652;2020-06-28;Battles;Kateku;28.8988;13;false
+7153037;DRC17653;2020-06-28;Battles;Kimaka;29.0025;13;false
+7153038;DRC17656;2020-06-28;Violence against civilians;Maze;30.5612;2;true
+7153039;DRC17658;2020-06-28;Battles;Mbwavinwa;29.0238;14;true
+7153041;DRC17661;2020-06-28;Battles;Oicha;29.5167;3;true
+7157188;DRC17725;2020-06-28;Violence against civilians;Mutanda;29.1168;3;true
+7153368;DRC17654;2020-06-28;Battles;Kisikivi;29.5500;3;false
+7153369;DRC17657;2020-06-28;Battles;Mbughavinywa;29.0770;0;false
+7153165;DRC17645;2020-06-27;Violence against civilians;Ibumba;28.6880;0;false
+7153422;DRC17648;2020-06-27;Battles;Oicha;29.5167;1;false
+7136030;DRC17626;2020-06-27;Battles;Budu;30.4290;0;false
+7136033;DRC17627;2020-06-27;Battles;Jingute Kpango;30.2099;8;true
+7136036;DRC17625;2020-06-27;Strategic developments;Beni;29.4654;0;false
+7136041;DRC17624;2020-06-27;Protests;Bandundu;17.3667;0;true
+7152970;DRC17628;2020-06-27;Strategic developments;Kinshasa;15.3222;0;true
+7153506;DRC17647;2020-06-27;Battles;Kimaka;29.0025;0;true
+7153508;DRC17646;2020-06-27;Strategic developments;Jingute Kpango;30.2099;0;false
+7153560;DRC17644;2020-06-27;Violence against civilians;Blukwa;30.6000;2;false
+7157421;DRC17721;2020-06-27;Violence against civilians;Pasi;26.8449;0;false
+7135934;DRC17629;2020-06-27;Strategic developments;Samboko Centre;29.5009;0;true
+7157544;DRC17720;2020-06-26;Violence against civilians;Nakiele;28.9074;1;true
+7135634;DRC17623;2020-06-26;Battles;Maleki;29.4676;2;true
+7173559;DRC17985;2020-06-26;Battles;Kirumbu;28.9333;0;false
+7173560;DRC17986;2020-06-26;Battles;Lukweti;28.7369;2;true
+7153376;DRC17643;2020-06-26;Violence against civilians;Katogota;29.0004;0;true
+7135734;DRC17622;2020-06-26;Protests;Kinshasa;15.3222;0;false
+7157533;DRC17718;2020-06-25;Battles;Kitasha;28.4681;0;false
+7136031;DRC17620;2020-06-25;Protests;Mbuji Mayi;23.6000;0;false
+7157540;DRC17719;2020-06-25;Battles;Mikenge;28.4476;1;false
+7153503;DRC17642;2020-06-25;Battles;Mbwavinwa;29.0238;0;false
+7153505;DRC17641;2020-06-25;Battles;Kanyatsi;29.0462;0;false
+7153507;DRC17639;2020-06-25;Strategic developments;Bunyatenge;28.9051;0;true
+7173553;DRC17983;2020-06-25;Battles;Lukweti;28.7369;3;false
+7173564;DRC17984;2020-06-25;Battles;Muleha;28.9792;4;false
+7135726;DRC17621;2020-06-25;Protests;Tshikapa;20.8000;0;true
+7136025;DRC17615;2020-06-24;Protests;Mbandaka;18.2711;0;true
+7136026;DRC17613;2020-06-24;Battles;Mandefu;30.6272;10;true
+7157532;DRC17716;2020-06-24;Battles;Kimaka;29.0025;0;false
+7136038;DRC17605;2020-06-24;Battles;Banacongo;29.5413;3;true
+7157549;DRC17717;2020-06-24;Violence against civilians;Pinga;28.6992;0;false
+7153005;DRC17609;2020-06-24;Strategic developments;Kashege;27.9249;0;false
+7135865;DRC17608;2020-06-24;Violence against civilians;Goma;29.2339;0;true
+7135628;DRC17611;2020-06-24;Riots;Kinshasa;15.3222;0;true
+7135629;DRC17612;2020-06-24;Riots;Lubumbashi;27.4741;0;false
+7135630;DRC17614;2020-06-24;Riots;Matadi;13.4500;0;
+7135631;DRC17616;2020-06-24;Battles;Nyamilima;29.5678;1;
+7135632;DRC17618;2020-06-24;Violence against civilians;Ziga;30.7532;4;
+7135633;DRC17619;2020-06-24;Violence against civilians;Ziga;30.7532;3;
+7135928;DRC17606;2020-06-24;Protests;Beni;29.4654;0;
+7135933;DRC17617;2020-06-24;Protests;Rubaya;28.8685;0;
+7135967;DRC17607;2020-06-24;Violence against civilians;Bwakadi;29.8112;2;
+7135725;DRC17610;2020-06-24;Protests;Kikwit;18.8162;0;
+7157537;DRC17711;2020-06-23;Violence against civilians;Kasiki;29.0690;1;
+7157538;DRC17713;2020-06-23;Battles;Lubero;29.2386;4;
+7136035;DRC17601;2020-06-23;Battles;Gobu;30.7453;3;
+7157541;DRC17715;2020-06-23;Battles;Mbughavinywa;29.0770;4;
+7157542;DRC17712;2020-06-23;Violence against civilians;Lomo;28.7358;0;
+7136040;DRC17600;2020-06-23;Battles;Dyaro;30.6873;8;
+7157546;DRC17710;2020-06-23;Battles;Kanyatsi;29.0462;4;
+7157551;DRC17714;2020-06-23;Battles;Lulimba;28.6474;0;
+7135800;DRC17599;2020-06-23;Battles;Bule;30.6000;0;
+7153509;DRC17638;2020-06-23;Strategic developments;Mweso;29.0333;0;
+7135625;DRC17598;2020-06-23;Battles;Bulambo;29.4188;1;
+7135626;DRC17602;2020-06-23;Violence against civilians;Kalembe;28.9383;1;
+7135627;DRC17603;2020-06-23;Riots;Kinshasa;15.3222;0;
+7135930;DRC17604;2020-06-23;Violence against civilians;Rubaya;28.8685;3;
+7135936;DRC17597;2020-06-23;Riots;Bukavu;28.8667;1;
+7136028;DRC17596;2020-06-22;Battles;Mbughavinywa;29.0770;0;
+7136029;DRC17595;2020-06-22;Battles;Kisima;29.6312;1;
+7157548;DRC17709;2020-06-22;Battles;Nkiko;29.3647;0;
+7157550;DRC17708;2020-06-22;Battles;Ibumba;28.6880;0;
+7153004;DRC17594;2020-06-22;Riots;Egombo;28.6537;0;
+7173561;DRC17982;2020-06-22;Battles;Kalungu;28.9703;0;
+7136027;DRC17589;2020-06-21;Violence against civilians;Lopa;30.3396;3;
+7136032;DRC17592;2020-06-21;Violence against civilians;Saliboko;30.1122;1;
+7136034;DRC17591;2020-06-21;Strategic developments;Mwene Ditu;23.4500;0;
+7157539;DRC17707;2020-06-21;Violence against civilians;Nyabihoko;29.4408;0;
+7173554;DRC17981;2020-06-21;Violence against civilians;Nyakakoma;29.6036;0;
+7135731;DRC17590;2020-06-21;Battles;Mayimoya;29.5697;0;
+7153157;DRC17637;2020-06-20;Battles;Lukula;12.9315;5;
+7136023;DRC17582;2020-06-20;Battles;Kalingi;28.1983;3;
+7136024;DRC17585;2020-06-20;Battles;Minembwe;28.4389;1;
+7136042;DRC17583;2020-06-20;Battles;Kamombo;28.8000;2;
+7129705;DRC17561;2020-06-20;Battles;Kisima;29.6312;5;
+7129984;DRC17562;2020-06-20;Battles;Mikenge;28.4476;0;
+7135624;DRC17587;2020-06-20;Violence against civilians;Tshabi;29.8785;10;
+7135929;DRC17586;2020-06-20;Protests;Mushinga;28.6612;0;
+7135931;DRC17581;2020-06-20;Protests;Izirangabo;28.6559;0;
+7135932;DRC17588;2020-06-20;Riots;Walungu;28.6458;0;
+7135935;DRC17580;2020-06-20;Riots;Burhale;28.6229;0;
+7129815;DRC17560;2020-06-20;Riots;Bukavu;28.8667;0;
+7135727;DRC17584;2020-06-20;Protests;Kiliba;29.1644;0;
+7153156;DRC17636;2020-06-19;Battles;Lukula;12.9315;6;
+7135546;DRC17556;2020-06-19;Battles;Mngla;30.3436;8;
+7129702;DRC17553;2020-06-19;Strategic developments;Aru;30.8414;0;
+7129703;DRC17554;2020-06-19;Protests;Butembo;29.2910;0;
+7129704;DRC17558;2020-06-19;Battles;Uvira;29.1378;5;
+7135916;DRC17578;2020-06-19;Violence against civilians;Kaolo;28.7107;1;
+7135919;DRC17579;2020-06-19;Battles;Makobola;29.1513;5;
+7173555;DRC17980;2020-06-19;Battles;Bwendero;28.9734;0;
+7130059;DRC17555;2020-06-19;Protests;Kamanyola;29.0024;0;
+7130060;DRC17559;2020-06-19;Protests;Walikale;28.0730;0;
+7129814;DRC17557;2020-06-19;Violence against civilians;Mwenda;29.7667;10;
+7130180;DRC17551;2020-06-18;Battles;Mikenge;28.4476;0;
+7129700;DRC17549;2020-06-18;Battles;Kakuka I;29.7887;3;
+7129701;DRC17550;2020-06-18;Battles;Manzati;29.7736;2;
+7130058;DRC17548;2020-06-18;Protests;Bukavu;28.8667;0;
+7130063;DRC17552;2020-06-18;Protests;Walungu;28.6458;0;
+7130182;DRC17543;2020-06-17;Battles;Beni;29.4654;0;
+7129697;DRC17544;2020-06-17;Protests;Goma;29.2339;0;
+7129698;DRC17545;2020-06-17;Violence against civilians;Halungupa;29.6317;6;
+7129699;DRC17547;2020-06-17;Violence against civilians;Sanduku;30.6321;5;
+7173547;DRC17979;2020-06-17;Violence against civilians;Visiki;29.2220;1;
+7129823;DRC17546;2020-06-17;Protests;Kolwezi;25.4725;0;
+7130121;DRC17537;2020-06-16;Violence against civilians;Kalembe;28.9383;0;
+7136037;DRC17593;2020-06-16;Strategic developments;Tshabi;29.8785;0;
+7130187;DRC17538;2020-06-16;Battles;Kpandroma;30.8976;1;
+7129693;DRC17535;2020-06-16;Riots;Bukavu;28.8667;0;
+7129694;DRC17536;2020-06-16;Battles;Irumu;29.8447;15;
+7129695;DRC17540;2020-06-16;Violence against civilians;Mutwanga;29.7500;2;
+7129696;DRC17542;2020-06-16;Battles;Rugetsi;29.7153;0;
+7153011;DRC17576;2020-06-16;Violence against civilians;Niangara;28.8742;1;
+7135920;DRC17574;2020-06-16;Violence against civilians;Makenzi;28.6153;0;
+7135923;DRC17577;2020-06-16;Violence against civilians;Swima;28.1333;0;
+7135925;DRC17575;2020-06-16;Violence against civilians;Mpeti;28.8230;0;
+7130057;DRC17539;2020-06-16;Violence against civilians;Lemera;28.9800;0;
+7129816;DRC17541;2020-06-16;Battles;Mutwanga;29.7500;0;
+7157740;DRC17706;2020-06-16;Strategic developments;Mbamu;28.4395;0;
+7153423;DRC17635;2020-06-15;Violence against civilians;Kibati;29.2627;0;
+7129903;DRC17530;2020-06-15;Battles;Kengezi;30.7970;0;
+7130184;DRC17534;2020-06-15;Strategic developments;Moba;29.7645;0;
+7129690;DRC17528;2020-06-15;Violence against civilians;Bukavu;28.8667;1;
+7129691;DRC17531;2020-06-15;Protests;Kinshasa;15.3222;0;
+7129692;DRC17532;2020-06-15;Protests;Kinshasa;15.3222;0;
+7135921;DRC17573;2020-06-15;Battles;Kateku;28.8988;3;
+7135926;DRC17572;2020-06-15;Battles;Kahira;28.9224;0;
+7129818;DRC17527;2020-06-15;Strategic developments;Bikenge;27.3833;0;
+7129822;DRC17533;2020-06-15;Protests;Kisangani;25.1896;0;
+7129824;DRC17529;2020-06-15;Strategic developments;Eringeti;29.6124;0;
+7130120;DRC17526;2020-06-14;Violence against civilians;Rugetsi;29.7153;0;
