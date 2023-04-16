@@ -67,7 +67,53 @@ Representa un conflicto concreto.
 
 #### Tipos auxiliares
 
-- Importancia, enumerado. Puede tomar los valores GRANDE,MEDIA,PEQUEÑA.
+- Importancia, ENUMERADO. Puede tomar los valores GRANDE,MEDIA,PEQUEÑA.
 - Victima. Representa los datos de la víctimas.
+
+
+## FactoriaConflicto
+
+- leerConflicto: recibe como parámetro una cadena con el formato de las líneas del fichero CSV, y devuelve un objeto del tipo a partir de esa cadena.
+
+- parsearConflicto: recibe como parámetro una cadena que contiene el nombre y ruta del fichero CSV, y devuelve una lista de objetos del tipo.
+
+## Conflictos (Interfaz)
+
+- En esta interfaz se encuentran todos los metodos utilizados en los tipos contenedores.
+
+## Tipo ContenedorBuclesImpl
+
+**Propiedades**:
+	
+- conflictos de tipo _List\<Partida\>_, consultable. 
+
+**Constructores**:
+
+-C1: tiene todas las propiedades básicas excepto conflicto, y crea un objeto de tipo contenedor sin ningún elemento en la colección.
+
+-C2: otro con todas las propiedades básicas y una colección de objetos del tipo base, que crea un objeto de tipo contenedor con todos los elementos 
+de la colección.
+
+**Criterio de igualdad**: comprueba la igualdad entre dos propiedades.
+
+**Otras operaciones**:
+-getNumeroConflictos: permite obtener el numero de elementos de conflictos
+
+-añadirConflictos: permite añadir un elemento a conflictos
+
+-añadirCollectionConflictos: permite añadir una colección a conflictos
+
+-eliminarConflicto: permite eliminar un elemento de conflictos
+
+-existeConflictoConNFatalities: comprueba si existe algún conflicto que tenga el numero de muertes que le pasamos como parámetro.
+
+-getSumaFatalities: calcula la suma de todos las muertes de los conflictos.
+
+-getConflictosSitio: devuelve los conflictos ocurridos en el lugar que pasamos como parámetro.
+
+-ConflictoId: Devuelve un Map en el que las claves son el event type y los valores una listas de tipo Conflicto los cuales deben tener un id mayor al que entramos por parámetro
+ 
+-ConteoConflictosPorLocalizacion: Devuelve un Map en el que las claves son las localiciones y los valores el número de conflictos
+ocurridos en esa dicha localizacion
 
  

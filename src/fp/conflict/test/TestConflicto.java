@@ -9,7 +9,7 @@ public class TestConflicto {
 
 	public static void main(String[] args) {
 		//test constructor 1
-		Conflicto c= new Conflicto(-90000,"DRC18042",LocalDate.of(2020,8,1),"Protests","Gemena",19.76,0, false, null, new Victima("Manuel", "Jimenez", "arquitecto"));
+		Conflicto c= new Conflicto(-90000,"DRC18042",LocalDate.of(2020,8,1),"Protests","Gemena",19.76,0, false, null,null, new Victima("Manuel", "Jimenez", "arquitecto"));
 		
 		c.añadeGruposArmados("Mazembe");
 		c.añadeGruposArmados("Mazembow");

@@ -42,7 +42,7 @@ public class Conflicto {
 	
 
 	public Conflicto(Integer dataId, String eventId, LocalDate date, String type, String location,
-			Double longitude, Integer fatalities, Boolean firearm, Importancia importanciaDerivada,Victima victima) {
+			Double longitude, Integer fatalities, Boolean firearm, Importancia importanciaDerivada,List<String> gruposArmados,Victima victima) {
 		//Restriccion1
 		Checkers.check("dataId no puede ser mayor de 8000000", dataId<=8000000);
 		
