@@ -77,15 +77,17 @@ Representa un conflicto concreto.
 
 - parsearConflicto: recibe como parámetro una cadena que contiene el nombre y ruta del fichero CSV, y devuelve una lista de objetos del tipo.
 
+-leerConflictoStrm: recibe como parámetro una cadena que contiene el nombre y ruta del fichero CSV y devuelve un objeto del tipo contenedor creado mediante el constructor C3.
+
 ## Conflictos (Interfaz)
 
 - En esta interfaz se encuentran todos los metodos utilizados en los tipos contenedores.
 
-## Tipo ContenedorBuclesImpl
+## Tipo ContenedorConflictos
 
 **Propiedades**:
 	
-- conflictos de tipo _List\<Partida\>_, consultable. 
+- conflictos de tipo _List\<Conflicto\>_, consultable. 
 
 **Constructores**:
 
@@ -93,6 +95,8 @@ Representa un conflicto concreto.
 
 -C2: otro con todas las propiedades básicas y una colección de objetos del tipo base, que crea un objeto de tipo contenedor con todos los elementos 
 de la colección.
+
+-C3: constructor con todas las propiedades basicas y un stream de objetos de tipo base que crea un objeto del tipo contenedor con todos los elementos del stream.
 
 **Criterio de igualdad**: comprueba la igualdad entre dos propiedades.
 
@@ -115,5 +119,27 @@ de la colección.
  
 -ConteoConflictosPorLocalizacion: Devuelve un Map en el que las claves son las localiciones y los valores el número de conflictos
 ocurridos en esa dicha localizacion
+
+-existeConflictoConNFatalitiesStreams: comprueba si existe algún conflicto que tenga el numero de muertes que le pasamos como parámetro, implementado con streams.
+
+-getSumaFatalitiesStreams: calcula la suma de todos las muertes de los conflictos, implementado con streams.
+
+-getConflictosSitioStreams: devuelve los conflictos ocurridos en el lugar que pasamos como parámetro, implementado con streams.
+
+-getMaxMuertesSitio: devuelve el conflicto con mayor numero de muertes de la localizacion pasada por parametro.
+
+-getConflictosSitioOrdenadosPorMuertes: devuelve una lista con los conflictos de la localizacion que pasamos por parametro ordenados segun el numero de muertes de mayor a menor
+
+-ConteoConflictosPorLocalizacionStreams: devuelve un Map en el que las claves son las localiciones y los valores el número de conflictos ocurridos en esa dicha localizacion.
+
+-ConflictosSitios: devuelve una lista con las ubicaciones de los conflictos haciendo uso del Collector mapping
+
+-tipoConflictoMaxMuertes: devuelve un map en el que las claves son el tipo de conflicto y las claves el maximo numero de fatalities en dicho tipo de conflicto
+
+-localizacionesNMayorNumeroFatalities: devuelve un sortedMap en el que los valores son las localizaciones y las claves son una lista de los N mayores numeros de Fatalities en ese lugar
+
+-mayorConflicto: Esta funcion devuelve la localizacion con mayor numero de Fatalities
+
+
 
  

@@ -8,6 +8,8 @@ import java.time.format.DateTimeFormatter;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
+import java.util.stream.Stream;
+
 import fp.utiles.Checkers;
 
 public class FactoriaConflicto {
@@ -52,5 +54,35 @@ public class FactoriaConflicto {
 		return res;
 	
 	}
+	//	Añadir a la factoría un método que recibe como parámetro una cadena que contiene el nombre y ruta del fichero CSV,
+	//	y devuelve un objeto del tipo contenedor creado mediante el constructor anterior.
 
+	public static ContenedorConflictos leerConflictoStrm(String rutaFichero) { 
+		
+	    try {
+	        Stream<Conflicto> listaLectura =
+	                Files.lines(Paths.get(rutaFichero)).
+	                skip(1).
+	                map(FactoriaConflicto::parsearConflicto);
+	        
+	        return new ContenedorConflictos(listaLectura);
+	       
+	        
+	    } catch (IOException e) {
+	        System.out.println("No se encuentra el fichero " + rutaFichero);
+	        return null;
+	        
+	    }
+	    
+	}
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
 }

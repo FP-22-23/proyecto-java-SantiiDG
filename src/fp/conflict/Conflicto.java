@@ -75,10 +75,8 @@ public class Conflicto {
         this.longitude = longitude;
         this.fatalities = fatalities;
   
-		
 	}
-	
-	
+
 	
 	//Representación como cadena
 	
